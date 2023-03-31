@@ -20,13 +20,13 @@ And lastly, adjust the traffic light setting to compare the overall traffic perf
 
 ### Location
 
-Area around 1035 El Monte Ave, Mountain View, CA 94041.
+Area around 65-30 Kissena Blvd, Queens, NY 11367, United States.
 
-![map](https://media.cleanshot.cloud/media/13332/IjOh7X6uy65DkCvWqusckHN2gO3SX4MjQDNynlaI.jpeg?Expires=1667013957&Signature=CwXKYfqKLC~UnhwecLOExPULHZFCqW-UXVBQernA4vBZL2gd-nq0CCsxyO6JsR7UufycQMB-Kccaex5bK-eqiMwWCZmluFw6ecuGyJsL~5egYlsyqaYWBPLgxOVAcAossoT0hyMy9YVHUQD6Tk5nczbIoh~TSS~ZsIpTT7PQEW70MvHp5iMZkkfxMt-ztJHrx-IXSMKJbfItfwDaNE820-wiDcSbvMKpx9JliQa2-DmSyFKKI5wGY~H-rAO0LS8Rdh~hBKM7sEFDHkeTeSsjsH8fSh-i7Yfb3PXi2N0MEtHTc7v0~43iHi0XbQSrYCBI3MtfQGZp4mA72MCYJk1Jpw__&Key-Pair-Id=K269JMAT9ZF4GZ)
+![map](https://res.cloudinary.com/dyxuippjy/image/upload/v1680298267/57ad8f91-1337-4ad4-8760-af5396dcc77e_lkxa0g.jpg)
 
 ### Simulation
 
-{% video src="https://media.cleanshot.cloud/media/13332/97Nq4rSANCe9JvPNlcrpu8Q0sAAGhLQGBDMxje7Y.mp4?Expires=1667013739&Signature=CygH8PAIU4-ullRyEpZhRj81O2RAPmcfLNeA4Wkm9UlFQKofQUOyiVRIqu66uKhYWGY4zm2b5R6ixbe8y8ef-BDQFkOAITZNhxl3EWZ7hMZeOuilHbbLPoPcnp8QUR24RDRcDZ~SfMsRbiz-Tr6f2Qdjqyr4kvDXq8G8kHUknJPVKQoAsizcbTHQTwgWfH8mEdy0RxKxN1F8do7t27p7YeOITy-RPSAEr6jxizgXYjJN8HqktYe5wnHJDs2gs-WqpjhX158l96U6SPRuuH0GYMQfOLBVZ2LpXXOG1as8von~SuAzgXldy6WKna2zTiQh4wOob3ejtOx9coE2mozP3g__&Key-Pair-Id=K269JMAT9ZF4GZ" /%}
+{% video src="https://res.cloudinary.com/dyxuippjy/video/upload/v1680297928/CleanShot_2023-03-31_at_14.17.32_npelhu.mp4" /%}
 
 
 ---
@@ -35,20 +35,20 @@ Area around 1035 El Monte Ave, Mountain View, CA 94041.
 
 ### Performance
 
- - **Duration**: 2.75s
- - **Real time factor**: 1422.66
- - **UPS**: 101567.538126
+ - **Duration**: 24.34s
+ - **Real time factor**: 174.974
+ - **UPS**: 51535.607150
 
 
 ### Vehicles
- - **Inserted**: 1803
+ - **Inserted**: 4262
  - **Running**: 0
  - **Waiting**: 0
 
 ### Statistics
- - **RouteLength**: 1369.15
- - **Speed**: 9.14
- - **Duration**: 155.14
- - **WaitingTime**: 24.99
- - **TimeLoss**: 55.53
- - **DepartDelay**: 0.64
+ - **RouteLength**: 2294.73
+ - **Speed**: 8.90
+ - **Duration**: 294.25
+ - **WaitingTime**: 96.51
+ - **TimeLoss**: 175.33
+ - **DepartDelay**: 2.46
