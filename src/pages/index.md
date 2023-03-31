@@ -1,7 +1,7 @@
 ---
 title: Project Overview
 pageTitle: Simulate and Visualize Real World Traffic Data
-description: A project by Open Avenues completed by [Your Name Here]
+description: A project by Open Avenues completed by Marwan Aljawarneh
 ---
 Predict when and how traffic congestion occurs and visualize it in SUMO. 
 ---
